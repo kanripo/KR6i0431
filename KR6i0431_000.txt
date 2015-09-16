@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 所欲致患經
+#+DATE: 2015-08-30 20:19:28.097288
+#+PROPERTY: JUAN 0
